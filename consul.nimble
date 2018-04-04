@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.1.0"
+version       = "0.0.1"
 author        = "Zach Smith"
 description   = "A simple interface to a running Consul agent."
 license       = "BSD2"
