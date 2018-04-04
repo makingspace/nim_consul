@@ -1,6 +1,6 @@
 import httpclient, asyncdispatch, options, json
 from strutils import startsWith, endsWith
-import consulpkg/[kv]
+import consul/[kv]
 
 export kv.isSome
 
